@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anime and Game
 - 😄 Pronouns: wibu
 - ⚡ Fun fact: Replacing your github profile picture with a picture of an anime girl doesn't make you good at coding.
+
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/yefta-yosia-asyel-43b802288) account.
