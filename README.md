@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Replacing your github profile picture with a picture of an anime girl doesn't make you good at coding.
 
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/yefta-yosia-asyel-43b802288) account.
+<p align="left">
+<a href="https://github.com/yeftakun">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yeftakun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeftakun&layout=compact&theme=algolia"/>
+</a>
+</p>
