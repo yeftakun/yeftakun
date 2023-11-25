@@ -35,7 +35,7 @@ Introducing my name **Yefta Yosia Asyel**
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying at Universitas Sam Ratulangi
-- 🌱 I’m currently learning JavaScript dasar at [Dicoding](https://www.dicoding.com/users/yeftakun/academies).
+- 🌱 I’m currently learning course at [Dicoding](https://www.dicoding.com/users/yeftakun/academies).
 - 💬 Ask me about Anime and Game
 - 😄 Pronouns: wibu
 - ⚡ Fun fact: Replacing your github profile picture with a picture of an anime girl doesn't make you good at coding.
