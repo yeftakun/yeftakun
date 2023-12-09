@@ -27,7 +27,7 @@
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=yeftakun&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
-[![wakatime](https://wakatime.com/badge/user/c0f068d6-5021-484a-b546-4c068cd8909a.svg)](https://wakatime.com/@c0f068d6-5021-484a-b546-4c068cd8909a)
+
 
 Introducing my name **Yefta Yosia Asyel**
 <!--
@@ -53,3 +53,5 @@ Here are some ideas to get you started:
 <p align="left">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeftakun&theme=algolia&show_icons=true" alt="amankrx" />
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/c0f068d6-5021-484a-b546-4c068cd8909a.svg)](https://wakatime.com/@c0f068d6-5021-484a-b546-4c068cd8909a)
