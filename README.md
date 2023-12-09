@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeftakun&theme=algolia&show_icons=true" alt="amankrx" />
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/c0f068d6-5021-484a-b546-4c068cd8909a.svg)](https://wakatime.com/@c0f068d6-5021-484a-b546-4c068cd8909a)
+<a href="https://wakatime.com/@c0f068d6-5021-484a-b546-4c068cd8909a"><img src="https://wakatime.com/badge/user/c0f068d6-5021-484a-b546-4c068cd8909a.svg" alt="Total time coded since Jul 28 2023" /></a>
