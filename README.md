@@ -35,12 +35,13 @@ Introducing my name **Yefta Yosia Asyel**
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying at Universitas Sam Ratulangi
+- 🔭 I’m currently studying at Faculty of Engineering Sam Ratulangi University
 - 🌱 I’m currently learning course at [Dicoding](https://www.dicoding.com/users/yeftakun/academies) | [MySkill](https://myskill.id/)
 - 💬 Ask me about Anime and Game
 - ⚡ Fun fact: Just changing your GitHub profile picture to an anime girl won't make you a coding expert
 <!-- - 😄 Pronouns: wibu -->
 <br>
+<p><strong>Currently learned:</strong> 2D Game Dev with Unity</p>
 
 ## My Stats
 
