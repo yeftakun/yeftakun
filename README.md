@@ -1,4 +1,4 @@
-<h1 align="center">Haro eberinyaan~</h1>
+![BocchiTheRockHitoriGotohGIF (2)](https://github.com/yeftakun/yeftakun/assets/112306795/d9f0a398-72fb-4d9d-9b00-9c641fb4ce85)<h1 align="center">Haro eberinyaan~</h1>
 
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 
@@ -41,7 +41,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Just changing your GitHub profile picture to an anime girl won't make you a coding expert
 <!-- - 😄 Pronouns: wibu -->
 <br>
-<p><strong>Currently learned:</strong> 2D Game Dev with Unity</p>
+<p><strong>Currently learned:</strong> 2D Game Dev with Unity</p> 
+
+// susah😭
+
+<!-- ![BocchiTheRockHitoriGotohGIF](https://github.com/yeftakun/yeftakun/assets/112306795/cb34f569-ec93-4e35-adc9-4e4ca0ff4a25) -->
+
+<img src="https://github.com/yeftakun/yeftakun/assets/112306795/cb34f569-ec93-4e35-adc9-4e4ca0ff4a25" width=30% />
+
 
 ## My Stats
 
