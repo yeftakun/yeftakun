@@ -1,4 +1,4 @@
-![BocchiTheRockHitoriGotohGIF (2)](https://github.com/yeftakun/yeftakun/assets/112306795/d9f0a398-72fb-4d9d-9b00-9c641fb4ce85)<h1 align="center">Haro eberinyaan~</h1>
+<h1 align="center">Haro eberinyaan~</h1>
 
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 
