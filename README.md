@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 <p><strong>Currently learned:</strong> 2D Game Dev with Unity</p> 
 
-// susah😭
+susah😭
 
 <!-- ![BocchiTheRockHitoriGotohGIF](https://github.com/yeftakun/yeftakun/assets/112306795/cb34f569-ec93-4e35-adc9-4e4ca0ff4a25) -->
 
@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 
 ## My Stats
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/yeftakun">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yeftakun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeftakun&layout=compact&theme=algolia"/>
 </a>
 </p>
-<p align="left">
+<p align="center">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeftakun&theme=algolia&show_icons=true" alt="amankrx" />
 </p>
 
