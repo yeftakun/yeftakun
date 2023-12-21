@@ -2,7 +2,7 @@
 
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 
-
+<h2 align="center">Connect with me</h2>
 <p align="center">
 	<a href="https://www.linkedin.com/in/yefta-yosia-asyel-43b802288">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
