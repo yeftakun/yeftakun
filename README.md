@@ -26,7 +26,9 @@
 
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=yeftakun&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+</p>![BocchiBocchitherockGI![BocchiTheRockAnimeGIF](https://github.com/yeftakun/yeftakun/assets/112306795/7da451b0-d39e-44c5-804e-45db129a3a7b)
+F (2)](https://github.com/yeftakun/yeftakun/assets/112306795/19f5e679-359e-44e5-9941-0068bfc81069)
+
 
 
 Introducing my name **Yefta Yosia Asyel**
@@ -41,13 +43,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Just changing your GitHub profile picture to an anime girl won't make you a coding expert
 <!-- - 😄 Pronouns: wibu -->
 <br>
-<p><strong>Currently learned:</strong> 2D Game Dev with Unity</p> 
+<p><strong>Currently learned:</strong> CRUD with PHP</p> 
 
-susah😭
+agak susah😔
 
-<!-- ![BocchiTheRockHitoriGotohGIF](https://github.com/yeftakun/yeftakun/assets/112306795/cb34f569-ec93-4e35-adc9-4e4ca0ff4a25) -->
+<!-- ![BocchiTheRockHitoriGotohGIF](https://github.com/yeftakun/yeftakun/assets/112306795/cb34f569-ec93-4e35-adc9-4e4ca0ff4a25) 
+![tenor](https://github.com/yeftakun/yeftakun/assets/112306795/4a78d5c3-fb8b-48c9-9303-560262673b4e)-->
 
-<img src="https://github.com/yeftakun/yeftakun/assets/112306795/cb34f569-ec93-4e35-adc9-4e4ca0ff4a25" width=30% />
+<img src="https://github.com/yeftakun/yeftakun/assets/112306795/4a78d5c3-fb8b-48c9-9303-560262673b4e" width=30% />
 
 
 ## My Stats
