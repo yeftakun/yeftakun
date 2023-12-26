@@ -1,5 +1,7 @@
 <h1 align="center">Haro eberinyaan~</h1>
 
+![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
+
 <h2 align="center">Connect with me</h2>
 <p align="center">
 	<a href="https://www.linkedin.com/in/yefta-yosia-asyel-43b802288">
@@ -24,10 +26,7 @@
 
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=yeftakun&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>![BocchiBocchitherockGI![BocchiTheRockAnimeGIF](https://github.com/yeftakun/yeftakun/assets/112306795/7da451b0-d39e-44c5-804e-45db129a3a7b)
-F (2)](https://github.com/yeftakun/yeftakun/assets/112306795/19f5e679-359e-44e5-9941-0068bfc81069)
-
-
+</p>
 
 Introducing my name **Yefta Yosia Asyel**
 <!--
