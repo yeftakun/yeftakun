@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Just changing your GitHub profile picture to an anime girl won't make you a coding expert
 <!-- - 😄 Pronouns: wibu -->
 <br>
-<p><strong>Currently learned:</strong> CRUD with PHP</p> 
+<p><strong>Currently learned:</strong> CRUD with PHP | Back-end application</p> 
 
 agak susah😔
 
