@@ -24,9 +24,9 @@
 	</a>
 </p>
 
-<p align="right">
+<!-- <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=yeftakun&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+</p> -->
 
 Introducing my name **Yefta Yosia Asyel**
 <!--
