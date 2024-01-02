@@ -16,6 +16,9 @@
   <a href="https://youtube.com/@yeftakun?si=daW59SNWa2q08GOo">
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 	</a>
+	<a href="https://steamcommunity.com/id/yeftaasyel">
+		<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+	</a>
 	<a href="https://github.com/yeftakun">
 		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
