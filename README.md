@@ -27,30 +27,20 @@
 	</a>
 </p>
 
-<!-- <p align="right">
-	<img src="https://komarev.com/ghpvc/?username=yeftakun&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p> -->
-
 Introducing my name **Yefta Yosia Asyel**
-<!--
-**yeftakun/yeftakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently studying at Faculty of Engineering Sam Ratulangi University
 - 🌱 I’m currently learning course at [Dicoding](https://www.dicoding.com/users/yeftakun/academies) | [MySkill](https://myskill.id/)
 - 💬 Ask me about Anime and Game
-- ⚡ Fun fact: Just changing your GitHub profile picture to an anime girl won't make you a coding expert
+
+<blockquote>Just changing your GitHub profile picture to an anime girl won't make you a coding expert</blockquote>
 <!-- - 😄 Pronouns: wibu -->
 <br>
-<p><strong>Currently learned:</strong> CRUD with PHP | Back-end application</p> 
-
-agak susah😔
-
-<!-- ![BocchiTheRockHitoriGotohGIF](https://github.com/yeftakun/yeftakun/assets/112306795/cb34f569-ec93-4e35-adc9-4e4ca0ff4a25) 
-![tenor](https://github.com/yeftakun/yeftakun/assets/112306795/4a78d5c3-fb8b-48c9-9303-560262673b4e)-->
+<p><strong>Currently learned:</strong> <a href="https://www.dicoding.com/academies/271">Fundamental Aplikasi Backend</a></p>
 
 <img src="https://github.com/yeftakun/yeftakun/assets/112306795/4a78d5c3-fb8b-48c9-9303-560262673b4e" width=30% />
+
+![main](https://img.shields.io/github/last-commit/yeftakun/yeftakun/main)
 
 
 ## My Stats
