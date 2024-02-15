@@ -38,10 +38,9 @@ Introducing my name **Yefta Yosia Asyel**
 <br>
 <p><strong>Currently learned:</strong> <a href="https://www.dicoding.com/academies/271">Fundamental Aplikasi Backend</a></p>
 
-<img src="https://github.com/yeftakun/yeftakun/assets/112306795/4a78d5c3-fb8b-48c9-9303-560262673b4e" width=30% />
-
 ![main](https://img.shields.io/github/last-commit/yeftakun/yeftakun/main)
 
+<img src="https://github.com/yeftakun/yeftakun/assets/112306795/d7377f6a-639b-4f97-a542-63f96966ec10" width=30% />
 
 ## My Stats
 
@@ -49,8 +48,8 @@ Introducing my name **Yefta Yosia Asyel**
 <a href="https://github.com/yeftakun">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yeftakun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeftakun&layout=compact&theme=algolia"/>
-</a>
-</p>
+</a></p>
+
 <p align="center">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeftakun&theme=algolia&show_icons=true" alt="amankrx" />
 </p>
