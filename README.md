@@ -1,6 +1,8 @@
 <h1 align="center">Haro eberinyaan~</h1>
 
+<!--
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
+-->
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
