@@ -52,13 +52,11 @@ Introducing my name **Yefta Yosia Asyel**
 <a href="https://github.com/yeftakun">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yeftakun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeftakun&layout=compact&theme=algolia"/>
+  <img src="https://github.com/yeftakun/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a></p>
 
 <p align="center">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeftakun&theme=algolia&show_icons=true" alt="amankrx" />
 </p>
-<p align="center">
-<img src="https://github.com/yeftakun/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</p
 
 <a href="https://wakatime.com/@c0f068d6-5021-484a-b546-4c068cd8909a"><img src="https://wakatime.com/badge/user/c0f068d6-5021-484a-b546-4c068cd8909a.svg" alt="Total time coded since Jul 28 2023" /></a>
