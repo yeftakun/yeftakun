@@ -52,7 +52,6 @@ Introducing my name **Yefta Yosia Asyel**
 <a href="https://github.com/yeftakun">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yeftakun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeftakun&layout=compact&theme=algolia"/>
-  <img src="https://github.com/yeftakun/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a></p>
 
 <p align="center">
