@@ -3,8 +3,9 @@
 <!--
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 -->
-
-![image](1706528704469.jpg)
+<p align="center">
+	<img src="1706528704469.jpg" />
+</p>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
