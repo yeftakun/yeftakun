@@ -31,6 +31,7 @@
 <!--<a href="https://steamcommunity.com/id/yeftaasyel">
 		<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
 	</a>-->
+ 
 Introducing my name **Yefta Yosia Asyel**
 
 - 🔭 I’m currently studying at Faculty of Engineering Sam Ratulangi University
