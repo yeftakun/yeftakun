@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/profile.php?id=100033274762510">
 		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
-  <a href="https://instagram.com/yeftaasyel?igshid=NGVhN2U2NjQ0Yg">
+  <a href="https://instagram.com/yeftaasyel_?igshid=NGVhN2U2NjQ0Yg">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
   <a href="https://youtube.com/@yeftakun?si=daW59SNWa2q08GOo">
