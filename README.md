@@ -46,7 +46,7 @@ Introducing my name **Yefta Yosia Asyel**
 <blockquote>Just changing your GitHub profile picture to an anime girl won't make you a coding expert</blockquote>
 <!-- - 😄 Pronouns: wibu -->
 <br>
-<p><strong>Currently learned:</strong> <a href="https://www.dicoding.com/academies/271">Fundamental Aplikasi Backend</a></p>
+<p><strong>Currently learned:</strong> Jaringan Komputer & Data</p>
 
 ![main](https://img.shields.io/github/last-commit/yeftakun/yeftakun/main)
 
