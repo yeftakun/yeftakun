@@ -58,6 +58,7 @@ Introducing my name **Yefta Yosia Asyel**
 <!-- - 😄 Pronouns: wibu -->
 <br>
 <h2>Currently learned</h2>
+
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
