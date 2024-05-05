@@ -51,7 +51,7 @@ Languages: JS, PY, CPP
 </p>
 <!--<a href="https://steamcommunity.com/id/yeftaasyel">
 		<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
-	</a>-->
+	</a>
  
 Introducing my name **Yefta Yosia Asyel**
 
@@ -60,6 +60,7 @@ Introducing my name **Yefta Yosia Asyel**
 - 💬 Ask me about Anime and Game
 
 <blockquote>Just changing your GitHub profile picture to an anime girl won't make you a coding expert</blockquote>
+-->
 <!-- - 😄 Pronouns: wibu -->
 <br>
 <h2>Currently learned</h2>
