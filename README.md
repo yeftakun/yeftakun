@@ -1,4 +1,4 @@
-<h1 align="center">Halo gaiss:v~</h1>
+<h1 align="left">こんにちは。</h1>
 
 <!--
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
@@ -7,8 +7,8 @@
 	<img src="animcoding.png" width=40%/>
 </p>
 
-<h2 align="center">Connect with me</h2>
-<p align="center">
+<h2 align="left">Connect with me</h2>
+<p align="left">
 	<!--<a href="https://www.linkedin.com/in/yefta-yosia-asyel-43b802288">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>-->
@@ -46,7 +46,8 @@ Introducing my name **Yefta Yosia Asyel**
 <blockquote>Just changing your GitHub profile picture to an anime girl won't make you a coding expert</blockquote>
 <!-- - 😄 Pronouns: wibu -->
 <br>
-<p><strong>Currently learned:</strong> Jaringan Komputer & Data</p>
+<h2>Currently learned</h2>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 ![main](https://img.shields.io/github/last-commit/yeftakun/yeftakun/main)
 
@@ -54,7 +55,7 @@ Introducing my name **Yefta Yosia Asyel**
 
 ## My Stats
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/yeftakun">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yeftakun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeftakun&layout=compact&theme=algolia"/>
