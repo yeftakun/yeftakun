@@ -3,11 +3,13 @@
 <!--
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 -->
+<div style="display: flex;">
 <div>
 <p align="center">
 	<img src="animcoding.png" width=40%/>
 </p>
-
+</div>
+<div>
 ```
 @yeftaasyel
 -------------------------
@@ -18,6 +20,7 @@ Game: Bandori,PJSK,Muse Dash,OSU,PUBG,PB,FF,Blue Archive
 Resolution: Learn backend, fluent at public speaking
 Languages: JS, PY, CPP
 ```
+</div>
 </div>
 
 <h2 align="left">Connect with me</h2>
