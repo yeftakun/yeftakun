@@ -3,20 +3,20 @@
 <!--
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 -->
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
     <div>
         <p align="center">
             <img src="animcoding.png" width="40%" />
         </p>
     </div>
     <div style="margin-left: 20px;">
-        <pre>
+        <pre style="white-space: pre-wrap;">
 @yeftaasyel
 -------------------------
 Desc: Undergraduate comp sci student
 Location: Manado, North Sulawesi
 Waifu: Shiroko
-Game: Bandori,PJSK,Muse Dash,OSU,PUBG,PB,FF,Blue Archive
+Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, Blue Archive
 Resolution: Learn backend, fluent at public speaking
 Languages: JS, PY, CPP
         </pre>
