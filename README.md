@@ -7,6 +7,17 @@
 	<img src="animcoding.png" width=40%/>
 </p>
 
+```
+@yeftaasyel
+-------------------------
+Desc: Undergraduate comp sci student
+Location: Manado, North Sulawesi
+Waifu: Shiroko
+Game: Bandori,PJSK,Muse Dash,OSU,PUBG,PB,FF,Blue Archive
+Resolution: Learn backend, fluent at public speaking
+Languages: JS, PY, CPP
+```
+
 <h2 align="left">Connect with me</h2>
 <p align="left">
 	<!--<a href="https://www.linkedin.com/in/yefta-yosia-asyel-43b802288">
