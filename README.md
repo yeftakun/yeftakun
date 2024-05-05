@@ -9,6 +9,8 @@
 	<img src="animcoding.png" width=40%/>
 </p>
 </div>
+<div>
+
 ```
 @yeftaasyel
 -------------------------
@@ -19,6 +21,8 @@ Game: Bandori,PJSK,Muse Dash,OSU,PUBG,PB,FF,Blue Archive
 Resolution: Learn backend, fluent at public speaking
 Languages: JS, PY, CPP
 ```
+
+</div>
 </div>
 
 <h2 align="left">Connect with me</h2>
