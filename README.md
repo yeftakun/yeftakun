@@ -5,8 +5,8 @@
 -->
 <div style="display: flex; align-items: center;">
     <div>
-        <p align="center">
-            <img src="animcoding.png" width="40%" />
+        <p>
+            <img src="animcoding.png" width="20%" />
         </p>
     </div>
     <div style="margin-left: 20px;">
