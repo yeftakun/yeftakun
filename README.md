@@ -3,13 +3,14 @@
 <!--
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 -->
-<div style="display: flex; align-items: center;">
-    <div style="display: flex;">
-        <p align="center" style="margin: 0;">
-            <img src="animcoding.png" width="20%" />
-        </p>
-        <div style="margin-left: 40px;">
-            <pre style="white-space: pre-wrap; margin: 0;">
+
+<div style="display: flex;">
+    <div align="center" style="flex: 1;">
+        <img src="animcoding.png" alt="gambar" width=40%/>
+    </div>
+    <div style="flex: 1;">
+        <pre>
+            <code>
 @yeftaasyel
 -------------------------
 Desc: Undergraduate comp sci student
@@ -18,8 +19,8 @@ Waifu: Shiroko
 Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, Blue Archive
 Resolution: Learn backend, fluent at public speaking
 Languages: JS, PY, CPP
-            </pre>
-        </div>
+            </code>
+        </pre>
     </div>
 </div>
 
@@ -91,5 +92,6 @@ Introducing my name **Yefta Yosia Asyel**
 <p align="center">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeftakun&theme=algolia&show_icons=true" alt="amankrx" />
 </p>
+
 
 <a href="https://wakatime.com/@c0f068d6-5021-484a-b546-4c068cd8909a"><img src="https://wakatime.com/badge/user/c0f068d6-5021-484a-b546-4c068cd8909a.svg" alt="Total time coded since Jul 28 2023" /></a>
