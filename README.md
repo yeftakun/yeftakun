@@ -4,13 +4,12 @@
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 -->
 <div style="display: flex; align-items: center;">
-    <div>
-        <p>
+    <div style="display: flex;">
+        <p align="center" style="margin: 0;">
             <img src="animcoding.png" width="20%" />
         </p>
-    </div>
-    <div style="margin-left: 20px;">
-        <pre style="white-space: pre-wrap;">
+        <div style="margin-left: 40px;">
+            <pre style="white-space: pre-wrap; margin: 0;">
 @yeftaasyel
 -------------------------
 Desc: Undergraduate comp sci student
@@ -19,9 +18,11 @@ Waifu: Shiroko
 Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, Blue Archive
 Resolution: Learn backend, fluent at public speaking
 Languages: JS, PY, CPP
-        </pre>
+            </pre>
+        </div>
     </div>
 </div>
+
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
