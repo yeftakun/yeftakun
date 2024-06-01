@@ -16,7 +16,7 @@
 Desc: Undergraduate comp sci student
 Location: Manado, North Sulawesi
 Waifu: Shiroko, Keqing
-Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, Blue Archive
+Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, BA, WW 
 Resolution: Learn backend, fluent at public speaking
 Languages: JS, PY, CPP
             </code>
