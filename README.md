@@ -13,7 +13,7 @@
             <code>
 @yeftaasyel
 -------------------------
-Desc: Undergraduate comp sci student
+Desc: Undergraduate informatics engineering
 Location: Manado, North Sulawesi
 Waifu: Shiroko, Keqing
 Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, BA, WW 
