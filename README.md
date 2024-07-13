@@ -18,7 +18,7 @@ Location: Manado, North Sulawesi
 Waifu: Shiroko, Keqing
 Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, BA, WW, RE Series
 Resolution: Learn backend, fluent at public speaking
-Languages: JS, PY, CPP
+Languages: JS, PY, CPP, PHP
             </code>
         </pre>
     </div>
