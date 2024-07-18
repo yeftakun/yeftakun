@@ -47,9 +47,9 @@ Languages: JS, PY, CPP, PHP
   <a href="mailto:yeftakun34@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>-->
-	<a href="https://discord.com/users/993736722405916712">
+	<!--<a href="https://discord.com/users/993736722405916712">
 		<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-	</a>
+	</a>-->
 </p>
 <!--<a href="https://steamcommunity.com/id/yeftaasyel">
 		<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
