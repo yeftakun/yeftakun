@@ -11,12 +11,13 @@
     <div style="flex: 1;">
         <pre>
             <code>
+		    
+<!-- Waifu: Shiroko, Keqing
+Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, BA, WW, RE Series -->
 @yeftaasyel
 -------------------------
 Desc: Undergraduate informatics engineering
 Location: Manado, North Sulawesi
-<!-- Waifu: Shiroko, Keqing
-Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, BA, WW, RE Series -->
 Resolution: Learn backend, fluent at public speaking
 Languages: JS, PY, CPP, PHP
             </code>
