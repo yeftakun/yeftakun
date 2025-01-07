@@ -4,7 +4,7 @@
 ![image](https://github.com/yeftakun/yeftakun/assets/112306795/94f13d44-3eb0-471c-b24d-1111a676fe9c)
 -->
 
-<!-- Waifu: Shiroko, Keqing
+<!--
 Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, BA, WW, RE Series -->
 <div style="display: flex;">
     <div align="center" style="flex: 1;">
@@ -16,13 +16,18 @@ Game: Bandori, PJSK, Muse Dash, OSU, PUBG, PB, FF, BA, WW, RE Series -->
 @yeftaasyel
 -------------------------
 Desc: Undergraduate informatics engineering
-Location: Manado, North Sulawesi
-Resolution: Learn backend, fluent at public speaking
+Location: North Sulawesi
+Resolution: Learn backend
 Languages: JS, PY, CPP, PHP
+Current waifu: Hoshimi Miyabi
             </code>
         </pre>
     </div>
 </div>
+
+```
+git commit -m "add new waifu"
+```
 
 
 <h2 align="left">Connect with me</h2>
