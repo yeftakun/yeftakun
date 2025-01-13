@@ -72,14 +72,10 @@ Introducing my name **Yefta Yosia Asyel**
 <br>
 <h2>Currently learned</h2>
 <div>
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" style="display: inline-block;">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="display: inline-block;">
 </div>
 
 ![main](https://img.shields.io/github/last-commit/yeftakun/yeftakun/main)
@@ -100,3 +96,5 @@ Introducing my name **Yefta Yosia Asyel**
 
 
 <a href="https://wakatime.com/@c0f068d6-5021-484a-b546-4c068cd8909a"><img src="https://wakatime.com/badge/user/c0f068d6-5021-484a-b546-4c068cd8909a.svg" alt="Total time coded since Jul 28 2023" /></a>
+
+ [Badge used](https://github.com/Ileriayo/markdown-badges)
