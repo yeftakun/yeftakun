@@ -70,6 +70,10 @@ Introducing my name **Yefta Yosia Asyel**
 -->
 <!-- - 😄 Pronouns: wibu -->
 <br>
+
+![lv_0_20250128214601](https://github.com/user-attachments/assets/6a58b91c-7994-4815-a325-88897390e33e)
+
+<br>
 <h2>Currently learned</h2>
 <div>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="display: inline-block;">
