@@ -19,7 +19,6 @@ Desc: Undergraduate informatics engineering
 Location: North Sulawesi
 Resolution: Learn backend
 Languages: JS, PY, CPP, PHP
-Current waifu: Hoshimi Miyabi
             </code>
         </pre>
     </div>
