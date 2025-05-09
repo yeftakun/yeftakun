@@ -25,6 +25,7 @@ Languages: JS, PY, CPP, PHP
 </div>
 
 ```
+git checkout karbit
 git commit -m "add new waifu"
 ```
 
