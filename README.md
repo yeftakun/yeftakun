@@ -94,6 +94,8 @@ Introducing my name **Yefta Yosia Asyel**
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeftakun&layout=compact&theme=algolia"/>
 </a></p>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yeftakun/3e4a4ad8-fca3-4330-b020-5656425277bd.png" /></a>
+
 <p align="center">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeftakun&theme=algolia&show_icons=true" alt="amankrx" />
 </p>
