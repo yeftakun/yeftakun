@@ -71,7 +71,7 @@ Introducing my name **Yefta Yosia Asyel**
 <!-- - 😄 Pronouns: wibu -->
 <br>
 
-![lv_0_20250128214601](lv_0_20250128214601.gif)
+<!-- ![lv_0_20250128214601](lv_0_20250128214601.gif) -->
 
 <br>
 <h2>Currently learned</h2>
