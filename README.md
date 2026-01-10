@@ -26,8 +26,6 @@ git commit -m "add new waifu"
 <br>
 ![main](https://img.shields.io/github/last-commit/yeftakun/yeftakun/main)
 
-<img src="https://github.com/yeftakun/yeftakun/assets/112306795/d7377f6a-639b-4f97-a542-63f96966ec10" width=30% />
-
 ## My Stats
 
 <p align="left">
