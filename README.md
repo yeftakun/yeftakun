@@ -1,5 +1,61 @@
-![Banner](Github_banner.webp)
-[Zoom🔍](https://raw.githubusercontent.com/yeftakun/yeftakun/refs/heads/main/Github_banner.webp)
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@yefta_asyel-1DA1F2?logo=instagram&logoColor=white)](https://instagram.com/yeft_aasyel)
-[![Website](https://img.shields.io/badge/yeftaasyel.my.id-Visit-blue?logo=googlechrome&logoColor=white)](https://yeftaasyel.my.id)
+  <!-- Header & Social Links -->
+  <h1 align="center">
+  @yeftakun <img src="./shiroko.png" width="35px" />
+</h1>
+  <p>
+    <a href="https://yeftaasyel.net"><code>more abt me</code></a> &nbsp;•&nbsp;
+    <a href="https://instagram.com/yefta_asyel"><code>instagram</code></a> &nbsp;•&nbsp;
+    <a href="mailto:email-kamu@example.com"><code>email</code></a>
+  </p>
+
+  <br />
+
+  <!-- Dashboard 2 Kolom -->
+  <table align="center" border="0">
+    <!-- Baris 1: Status & Featured Repositories -->
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <pre><b>$ cat status.sh</b>
+> CS FG (Need a job)
+> Software & Web
+> OS: Mint & Win 11</pre>
+      </td>
+      <td width="50%" valign="top" align="left">
+        <pre><b>$ ls featured-repos/</b>
+📁 <a href="https://github.com/yeftakun/GamepadTweaks"><b>GamepadTweaks</b></a>
+📁 <a href="https://github.com/yeftakun/ac-lapboard"><b>ac-lapboard</b></a>
+📁 <a href="https://github.com/yeftakun/PrintOrder"><b>PrintOrder</b></a></pre>
+      </td>
+    </tr>
+    <!-- Baris 2: Tech Stack & Streak Stats -->
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <pre><b>$ skillicons.dev --user yeftakun</b>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cs,dotnet,js,lua,nodejs,vscode,mint,windows,mysql,git&perline=5" alt="Tech Stack" />
+        </a></pre>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <pre align="left"><b>$ git streak --stats</b>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=yeftakun&theme=tokyonight&hide_border=true&border_radius=6&locale=jv" width="100%" alt="GitHub Streak" />
+        </a>
+        </pre>
+      </td>
+    </tr>
+  </table>
+
+<br /><br /><br />
+
+  <!-- Visitor Counter -->
+  <img src="https://count.getloli.com/get/@yeftakun?theme=asoul" alt="yeftakun profile views" />
+
+  <p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Shiroko+is+my+MBG;Building+cool+stuff+with+AI...;I+like+racing...+I+am+racist" alt="Typing SVG" />
+  </a>
+</p>
+
+</div>
