@@ -6,8 +6,7 @@
   </h1>
   <p>
     <a href="https://yeftaasyel.net"><code>more abt me</code></a> &nbsp;•&nbsp;
-    <a href="https://instagram.com/yefta_asyel"><code>instagram</code></a> &nbsp;•&nbsp;
-    <a href="mailto:email-kamu@example.com"><code>email</code></a>
+    <a href="https://instagram.com/yefta_asyel"><code>instagram</code></a>
   </p>
 
   <br />
