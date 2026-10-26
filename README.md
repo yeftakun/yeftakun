@@ -55,7 +55,7 @@
   <!-- Typing SVG -->
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Shiroko+is+my+MBG;Building+cool+stuff+with+AI...;I+like+racing...+I+am+racist" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Shiroko+is+my+MBG;Building+cool+stuff+with+AI...;Nice to meet you^^" alt="Typing SVG" />
     </a>
   </p>
 
