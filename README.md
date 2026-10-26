@@ -2,8 +2,8 @@
 
   <!-- Header & Social Links -->
   <h1 align="center">
-  @yeftakun <img src="./shiroko.png" width="35px" />
-</h1>
+    @yeftakun <img src="./shiroko.png" width="35px" />
+  </h1>
   <p>
     <a href="https://yeftaasyel.net"><code>more abt me</code></a> &nbsp;•&nbsp;
     <a href="https://instagram.com/yefta_asyel"><code>instagram</code></a> &nbsp;•&nbsp;
@@ -32,30 +32,32 @@
     <!-- Baris 2: Tech Stack & Streak Stats -->
     <tr>
       <td width="50%" valign="top" align="left">
-        <pre><b>$ skillicons.dev --user yeftakun</b>
+        <pre><b>$ skillicons.dev --user yeftakun</b></pre>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=cs,dotnet,js,lua,nodejs,vscode,mint,windows,mysql,git&perline=5" alt="Tech Stack" />
-        </a></pre>
+        </a>
       </td>
-      <td width="50%" valign="top" align="center">
-        <pre align="left"><b>$ git streak --stats</b>
+      <td width="50%" valign="top" align="left">
+        <pre><b>$ git streak --stats</b></pre>
         <a href="https://git.io/streak-stats">
           <img src="https://streak-stats.demolab.com?user=yeftakun&theme=tokyonight&hide_border=true&border_radius=6&locale=jv" width="100%" alt="GitHub Streak" />
         </a>
-        </pre>
       </td>
     </tr>
   </table>
 
-<br /><br /><br />
+<br /><br />
 
   <!-- Visitor Counter -->
   <img src="https://count.getloli.com/get/@yeftakun?theme=asoul" alt="yeftakun profile views" />
 
+<br /><br />
+
+  <!-- Typing SVG -->
   <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Shiroko+is+my+MBG;Building+cool+stuff+with+AI...;I+like+racing...+I+am+racist" alt="Typing SVG" />
-  </a>
-</p>
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Shiroko+is+my+MBG;Building+cool+stuff+with+AI...;I+like+racing...+I+am+racist" alt="Typing SVG" />
+    </a>
+  </p>
 
 </div>
